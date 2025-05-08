@@ -65,3 +65,6 @@ I chose **Linear Regression** because it's interpretable and well-suited for str
   ```python
   import joblib
   joblib.dump(model, 'student_performance_model.pkl')
+
+
+  
