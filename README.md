@@ -66,4 +66,8 @@ I chose **Linear Regression** because it's interpretable and well-suited for str
   import joblib
   joblib.dump(model, 'student_performance_model.pkl')
 
-  
+### Model Accuracy:  
+**Mean Absolute Error:** 1.6111213463123035
+**Mean Squared Error:** 4.082628398521851
+**Root Mean Squared Error:** 2.020551508505005
+**R^2 Score: 98.89832909573145%**
